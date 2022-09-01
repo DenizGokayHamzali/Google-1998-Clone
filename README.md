@@ -2,7 +2,7 @@
 Here is the first version of google! (1998 September)
 
 ## About The Project
-![Image](img/About%20the%20project.png)
+![Image](https://i.im.ge/2022/09/01/OxsCur.About-the-project.png)
 
 This project has been prepared for Patika.Dev Front-End course.
 
