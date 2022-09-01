@@ -2,7 +2,9 @@
 Here is the first version of google! (1998 September)
 
 ## About The Project
-![Image](https://i.ibb.co/N1y0Lqr/About-the-project.png)
+<div align="center">
+    <img src="https://i.ibb.co/N1y0Lqr/About-the-project.png" alt="Google 1998 Photo" title="Google 1998">
+</div>
 
 This project has been prepared for Patika.Dev Front-End course.
 
