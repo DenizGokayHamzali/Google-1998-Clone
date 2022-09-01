@@ -1,0 +1,70 @@
+img {
+    width: 351px;
+    height: 113px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card-top {
+    background-color: #EEEEEE;
+    margin: 0 5% 2px 5%;
+}
+
+.card-bottom {
+    width: 90%;
+    margin: 0 5% 0 5%;
+    display: flex;
+}
+
+.card1 {
+    width: 37%;
+    height: 63px;
+    float: left;
+    background-color: #7EE5DA;
+    margin-right: 2px;
+    padding: 0.6% 8% 0.4% 8%;
+    flex: 1; 
+}
+
+.card2 {
+    height: 63px;
+    font-size: 13px;
+    float: left;
+    background-color: #70CCC2;
+    margin-right: 2px;
+    padding: 0.5% 0 0.5% 0;
+    flex: 1;
+}
+
+.card3 {
+    height: 63px;
+    font-size: 13px;
+    float: left;
+    background-color: #62B3AA;
+    padding: 0 12% 1% 12%;
+    flex: 1;
+}
+
+#Copyright {
+    font-size: small;
+    text-align: center;
+    display: block;
+    margin: 5px;
+}
+
+.input-text {
+    width: 317px;
+    box-sizing: border-box;
+    padding: 1px 2px;
+}
+
+.subscribe {
+    margin-right: 10px;
+}
